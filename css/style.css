@@ -30,7 +30,7 @@ h1{
     margin: auto;
     height: 60vh;
     padding: 33px;
-    overflow-y: scroll #ceb7b7;
+    overflow-y: scroll;
     margin: bottom 23px;
     background-color: rgb(21, 21, 22);
 
